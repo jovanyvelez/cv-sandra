@@ -99,14 +99,28 @@ export const professionalData = {
 		},
 		{
 			id: 8,
-			role: " Profe Matemáticas ",
+			role: " Profe privado Matemáticas, Física (Emprendimiento personal) ",
+			description:
+				"Profesor particular de Cálculo, Algebra Lineal y Ecuaciones Diferenciales",
+			current: false,
+		},
+		{
+			id: 9,
+			role: " Profe Matemáticas (Colegio los Almendros, Envigado) ",
 			description:
 				"Profesor tiempo completo matemáticas en grados 8, 9, 10 (Dos años)",
 			current: false,
 		},
 		{
-			id: 9,
-			role: " Monitor Universidad de Antioquia ",
+			id: 10,
+			role: " Estudiante practicante (Barrancabermeja, Ecopetrol) ",
+			description:
+				"Analista de inventarios",
+			current: false,
+		},
+		{
+			id: 11,
+			role: " Monitor (Universidad de Antioquia) ",
 			description:
 				"Orientación de talleres prácticos a estudiantes en algoritmos y Visual Foxpro.",
 			current: false,
