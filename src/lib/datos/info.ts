@@ -97,6 +97,20 @@ export const professionalData = {
 				"Responsable por la cadena logistica nacional e internacional de producto terminado de la compañía, para las plantas de Girardot y Cartagena",
 			current: false,
 		},
+		{
+			id: 8,
+			role: " Profe Matemáticas ",
+			description:
+				"Profesor tiempo completo matemáticas en grados 8, 9, 10 (Dos años)",
+			current: false,
+		},
+		{
+			id: 9,
+			role: " Monitor Universidad de Antioquia ",
+			description:
+				"Orientación de talleres prácticos a estudiantes en algoritmos y Visual Foxpro.",
+			current: false,
+		},
 
 	],
 };
