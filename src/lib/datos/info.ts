@@ -18,7 +18,8 @@ export const aboutMe = {
 	body: [
 		{id:1, paragraph:"Ingeniero Industrial con mas de 16 años de experiencia profesional, en areas tan diversas como tecnología, logística, administración y enseñanza. Me he desempeñado en sectores como el petrolero, alimentos, servicios y educación"},
 		{id:2, paragraph:"Soy apasionado de la tecnologia, en especial computación y el desarrollo de software"},
- 		{id:3, paragraph:"Cuando no estoy trabajando, me encanta la práctica del ciclismo, leer y pasar tiempo con mis amigos y familiares. En resúmen creo que mi determinación, actitud positiva y trabajo duro me convierten en un verdadero activo para cualquier equipo."},
+ 		{id:3, paragraph:"Cuando no estoy trabajando, me encanta la práctica del ciclismo, leer y pasar tiempo con mis amigos y familiares."},
+		 {id:4, paragraph:"En resúmen creo que mi determinación, actitud positiva y trabajo duro me convierten en un verdadero activo para cualquier equipo."},
 	],
 };
 
