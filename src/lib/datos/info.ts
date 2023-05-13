@@ -19,7 +19,7 @@ export const aboutMe = {
 		{id:1, paragraph:"Ingeniero Industrial con mas de 16 años de experiencia profesional, en areas tan diversas como tecnología, logística, administración y enseñanza. Me he desempeñado en sectores como el petrolero, alimentos, servicios y educación"},
 		{id:2, paragraph:"Soy apasionado de la tecnologia, en especial computación y el desarrollo de software"},
  		{id:3, paragraph:"Cuando no estoy trabajando, me encanta la práctica del ciclismo, leer y pasar tiempo con mis amigos y familiares."},
-		 {id:4, paragraph:"En resúmen creo que mi determinación, actitud positiva y trabajo duro me convierten en un verdadero activo para cualquier equipo."},
+		{id:4, paragraph:"En resúmen creo que mi determinación, actitud positiva y trabajo duro me convierten en un verdadero activo para cualquier equipo."},
 	],
 };
 
@@ -30,7 +30,7 @@ export const skills = {
 		{ icon: "👥", text: "Colaboración" },
 		{ icon: "⽓", text: "Trabajo en equipo" },
 		{ icon: "💡", text: "Solucion Creativa a Problemas" },
-		{ icon: "⌛️", text: "Gestion del tiempo💻" },
+		{ icon: "⌛️", text: "Gestion del tiempo" },
 	],
 	hard: [
 		{ icon: "💤", text: "TypeScript" },
@@ -51,7 +51,7 @@ export const professionalData = {
 			id: 1,
 			role: "Freelancer",
 			description:
-				"Desarrollo de software a medida,tutoria en temas de herramientas de software y administración. (2021 hasta hoy)",
+				"Desarrollo de software a medida, tutoria en temas de herramientas de software y administración. (2021 hasta hoy)",
 			current: true,
 		},
 
@@ -94,7 +94,7 @@ export const professionalData = {
 			id: 7,
 			role: " Jefe Logística. (Postobon) ",
 			description:
-				"Responsable por la cadena logistica nacional e internacional de producto terminado de la compañía, para las plantas de Girandot y Cartagena",
+				"Responsable por la cadena logistica nacional e internacional de producto terminado de la compañía, para las plantas de Girardot y Cartagena",
 			current: false,
 		},
 

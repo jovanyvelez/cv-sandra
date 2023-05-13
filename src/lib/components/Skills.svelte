@@ -1,7 +1,6 @@
 <script>
 	import { activeTab } from '$lib/store';
 	import { skills } from '$lib/datos/info';
-	import { text } from 'svelte/internal';
 	const { soft, hard } = skills;
 </script>
 

@@ -1,3 +1,3 @@
 import { writable } from 'svelte/store';
 
-export const activeTab = writable("soft");
+export const activeTab = writable("hard");
