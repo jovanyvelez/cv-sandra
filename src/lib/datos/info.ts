@@ -66,7 +66,7 @@ export const professionalData = {
 			id: 3,
 			role: "Lider Grupos Instalacion Biométrica. (Americas Business Process Services) ",
 			description:
-				"Capacitación de grupos en eloboración de planos de trabajo, cálculo de recursos para instalción de puestos biométricos de votación, y despliegue logistico de estaciónes de trabajo y posterior retiro, elaboración de informes de avance. (Junio-Septiembre 2019)",
+				"Capacitación de grupos en elaboración de planos de trabajo, cálculo de recursos para instalción de puestos biométricos de votación, y despliegue logistico de estaciónes de trabajo y posterior retiro, elaboración de informes de avance. (Junio-Septiembre 2019)",
 			current: false,
 		},
 		{
