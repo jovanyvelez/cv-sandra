@@ -12,7 +12,7 @@
     <Sidebar {personalData} />
     <section class="p-8 sm:p-16 w-full sm:basis-2/3 ml-auto">
         <AboutMe data={aboutMe} />
-        <ParaMostrar />
+        <!--ParaMostrar /__>
         <ProfExp />
         <div class="flex w-full flex-wrap">
 
