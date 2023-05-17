@@ -2,7 +2,7 @@
 
 export const personalData = {
 	name: "Jovany Vélez Arango",
-	role: "Ingeniero Industrial",
+	role: "Ingeniero",
 	education: [
 		"Universidad de Antioquia",
 		"Master of Science in Artificial Intelligence, Imperial College London (2019-2021)",
