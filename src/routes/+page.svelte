@@ -1,6 +1,7 @@
 <script lang="ts">
     
 	import AboutMe from "$lib/components/AboutMe.svelte";
+	import ParaMostrar from "$lib/components/ParaMostrar.svelte";
 	import ProfExp from "$lib/components/ProfExp.svelte";
     import Sidebar from "../lib/components/Sidebar.svelte";
     export let data;
@@ -11,6 +12,7 @@
     <Sidebar {personalData} />
     <section class="p-8 sm:p-16 w-full sm:basis-2/3 ml-auto">
         <AboutMe data={aboutMe} />
+        <ParaMostrar />
         <ProfExp />
         <div class="flex w-full flex-wrap">
 

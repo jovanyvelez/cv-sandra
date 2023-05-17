@@ -10,6 +10,7 @@ export default {
       "grey-light": "#FAFAFA",
       "green-light": "#d2eff1",
       white: "#fff",
+      blue: "#139ED6"
     },
     fontFamily:{
       sans:["Georgia", "sans-serif"],

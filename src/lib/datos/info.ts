@@ -1,3 +1,5 @@
+
+
 export const personalData = {
 	name: "Jovany Vélez Arango",
 	role: "Ingeniero Industrial",
@@ -43,6 +45,15 @@ export const skills = {
 		{ icon: "📈", text: "Estructura de Datos y Algoritmos" },
 	],
 };
+
+export const muestras = {
+	title: "Lo que hago actualmente",
+	primera:"E-commerce",
+	estado: "🚧 En desarrollo, preview para el cliente",
+	web: "🕸️ http://18.206.118.47:4173/",
+	notas: "Preview de propuesta inicial para desarrollo a medida de la empresa Equisol. Alojado en Amazon AWS light-sail, linux web server",
+	github: "https://github.com/jovanyvelez/sveltekit-client",
+}
 
 export const professionalData = {
 	title: "Experiencia Profesional",
