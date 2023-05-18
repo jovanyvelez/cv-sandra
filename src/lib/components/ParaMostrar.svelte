@@ -3,7 +3,7 @@
     const {title, primera,estado,github, web, notas} = muestras;
 </script>
 
-<div class="flex my-10">
+<div class="my-10">
 
     <h2 class="font-bold">{title}</h2>
     <ul class="ml-5 ">
