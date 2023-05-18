@@ -50,7 +50,7 @@ export const muestras = {
 	title: "Lo que hago actualmente",
 	primera:"E-commerce",
 	estado: "🚧 En desarrollo, preview para el cliente",
-	web: "🕸️ http://18.206.118.47:4173/",
+	web: "http://18.206.118.47:4173/",
 	notas: "Preview de propuesta inicial para desarrollo a medida de la empresa Equisol. Alojado en Amazon AWS light-sail, linux web server",
 	github: "https://github.com/jovanyvelez/sveltekit-client",
 }
