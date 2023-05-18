@@ -59,7 +59,7 @@ export const muestras = [{
 	primera:"Curriculum",
 	estado: "🚧 siempre en construcción",
 	web: "https://cv-jovany.vercel.app",
-	notas: "Hoja de vida desarrollada con html, css y javascript (sveltekit 1.0)",
+	notas: "Hoja de vida desarrollada con html, css y javascript (sveltekit 1.0). Alojado en Vercel cloud app service",
 	github: "https://github.com/jovanyvelez/cv-jovany",
 }
 
