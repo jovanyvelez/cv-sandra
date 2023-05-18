@@ -46,14 +46,24 @@ export const skills = {
 	],
 };
 
-export const muestras = {
+export const muestras = [{
 	title: "Lo que hago actualmente",
 	primera:"E-commerce",
 	estado: "🚧 En desarrollo, preview para el cliente",
 	web: "http://18.206.118.47:4173/",
-	notas: "Preview de propuesta inicial para desarrollo a medida de la empresa Equisol. Alojado en Amazon AWS light-sail, linux web server",
+	notas: "Preview de propuesta inicial para desarrollo a medida a Equisol. Alojado en Amazon AWS light-sail, linux web server, sveltekit 1.0",
 	github: "https://github.com/jovanyvelez/sveltekit-client",
+},
+{
+	title: "",
+	primera:"Curriculum",
+	estado: "🚧 siempre en construcción",
+	web: "https://cv-jovany.vercel.app",
+	notas: "Hoja de vida desarrollada con html, css y javascript (sveltekit 1.0)",
+	github: "https://github.com/jovanyvelez/cv-jovany",
 }
+
+]
 
 export const professionalData = {
 	title: "Experiencia Profesional",
