@@ -51,7 +51,7 @@ export const muestras = [{
 	primera:"E-commerce",
 	estado: "🚧 En desarrollo, preview para el cliente",
 	web: "http://jovany.com.co/",
-	notas: "Preview de propuesta Equisol. user: jovany.velez@gmail.com, pass: Milulu½.1",
+	notas: "Preview de propuesta Equisol. user: jovany.velez@gmail.com, pass: Milulu&.1",
 	github: "https://github.com/jovanyvelez/semana_1",
 },
 {
