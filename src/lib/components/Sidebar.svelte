@@ -6,7 +6,7 @@
     const {name, role, education, contactLinks} = personalData;
 </script>
 
-<div class="bg-black flex flex-col content-between w-full h-auto sm:h-screen sm:justify-around sm:w-1/3 sm:fixed">
+<div class="bg-black flex flex-col content-between w-full h-auto sm:h-screen sm:justify-evenly sm:w-1/3 sm:fixed sm:mx-2" >
     <div class="text-white flex flex-col p-10 items-center">
         <input type="image" src = {'/images/jovany.jpg'} alt="foto jovany" width="200" height="200" class="rounded-full h-full mb-6"/>
         <h1 class="mb-2 sm:text-2xl text-center">{name}</h1>

@@ -15,7 +15,6 @@
         <ParaMostrar />
         <ProfExp />
         <div class="flex w-full flex-wrap">
-
             <h2 class="text-lg font-bold text-center">Con gusto puedo complementar la informacion que consideren pertinente</h2>
         </div>
 
