@@ -8,7 +8,7 @@
     const{ personalData, aboutMe } = data;
 </script>
 
-<div class="flex flex-col sm:flex-row sm:mx-auto">
+<div class="flex flex-col sm:flex-row">
     <Sidebar {personalData} />
     <section class="p-8 sm:p-16 w-full sm:basis-2/3 ml-auto">
         <AboutMe data={aboutMe} />
