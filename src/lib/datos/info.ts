@@ -50,8 +50,8 @@ export const muestras = [{
 	title: "Lo que hago actualmente",
 	primera:"E-commerce",
 	estado: "🚧 En desarrollo, preview para el cliente",
-	web: "http://jovany.com.co/",
-	notas: "Preview de propuesta Equisol. user: jovany.velez@gmail.com, pass: Milulu&.1",
+	web: "https://portalintegradores.equisol.co",
+	notas: "Preview de propuesta Equisol. user: jvelez23@misena.edu.co, pass: 1234jovany",
 	github: "https://github.com/jovanyvelez/semana_1",
 },
 {
