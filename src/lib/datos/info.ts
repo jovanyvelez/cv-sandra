@@ -44,7 +44,7 @@ export const skills = {
 
 export const muestras = [{
 	title: "Lo que hago actualmente",
-	primera:"Cria y venta de cachorros",
+	primera:"Emprendimiento cuidado de mascotas",
 	estado: "🚧 En desarrollo, fuente de ingresos actuales",
 	web: "https://portalintegradores.equisol.co",
 	notas: "",
