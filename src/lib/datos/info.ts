@@ -1,15 +1,15 @@
 
 
 export const personalData = {
-	name: "Jovany Vélez Arango",
-	role: "Ingeniero",
+	name: "Sandra Paola Vergara Garzon",
+	role: "Asistente Administrativa",
 	education: [
-		"Universidad de Antioquia",
+		"CEOGET",
 		"Master of Science in Artificial Intelligence, Imperial College London (2019-2021)",
 	],
 	contactLinks: [
-		"jovany.velez@gmail.com",
-		"300 2005393",
+		"spvergara@gmail.com",
+		"604 2970318 -- 3058073525",
 		"https://linkedin.com/aliciarodriguezLi",
 		"https://medium.com/@time2code.ali",
 	],
@@ -18,9 +18,9 @@ export const personalData = {
 export const aboutMe = {
 	title: "Quien Soy",
 	body: [
-		{id:1, paragraph:"Ingeniero con mas de 16 años de experiencia profesional, en areas tan diversas como tecnología, logística, administración y enseñanza. Me he desempeñado en sectores como el petrolero, alimentos, servicios y educación"},
-		{id:2, paragraph:"Soy apasionado de la tecnologia, en especial computación y el desarrollo de software"},
- 		{id:3, paragraph:"Cuando no estoy trabajando, me encanta la práctica del ciclismo, leer y pasar tiempo con mis amigos y familiares."},
+		{id:1, paragraph:"Soy íntegra, creativa, con sentido común e iniciativa, puntual y asumo con compromiso los retos y metas que se me plantee."},
+		{id:2, paragraph:"Me adapto fácilmente a los cambios y me gusta el trabajo colaborativo,"},
+ 		{id:3, paragraph:"soy una persona orientada al logro que posee excelentes relaciones interpersonales"},
 		{id:4, paragraph:"En resúmen creo que mi determinación, actitud positiva y trabajo duro me convierten en un verdadero activo para cualquier equipo."},
 	],
 };
@@ -35,33 +35,22 @@ export const skills = {
 		{ icon: "⌛️", text: "Gestion del tiempo" },
 	],
 	hard: [
-		{ icon: "💤", text: "TypeScript" },
-		{ icon: "🖥️", text: "Sistemas operativos" },
-		{ icon: "💻", text: "Svelte" },
-		{ icon: "🚀", text: "React" },
-		{ icon: "💻", text: "Python" },
-		{ icon: "💾", text: "SQL" },
-		{ icon: "💾", text: "noSQL" },
-		{ icon: "📈", text: "Estructura de Datos y Algoritmos" },
+		{ icon: "💤", text: "Ms-Word" },
+		{ icon: "🖥️", text: "Windows" },
+		{ icon: "💻", text: "Excel" },
+		{ icon: "🚀", text: "Sap, Módulo de compras" },
 	],
 };
 
 export const muestras = [{
 	title: "Lo que hago actualmente",
-	primera:"E-commerce",
-	estado: "🚧 En desarrollo, preview para el cliente",
+	primera:"Cria y venta de cachorros",
+	estado: "🚧 En desarrollo, fuente de ingresos actuales",
 	web: "https://portalintegradores.equisol.co",
-	notas: "Preview de propuesta Equisol. user: jvelez23@misena.edu.co, pass: 1234jovany",
-	github: "https://github.com/jovanyvelez/semana_1",
+	notas: "",
+	github: "",
 },
-{
-	title: "",
-	primera:"Curriculum",
-	estado: "🚧 siempre en construcción",
-	web: "https://cv-jovany.vercel.app",
-	notas: "Hoja de vida desarrollada con html, css y javascript (sveltekit 1.0). Alojado en Vercel cloud app service",
-	github: "https://github.com/jovanyvelez/cv-jovany",
-}
+
 ]
 
 export const professionalData = {
@@ -69,82 +58,34 @@ export const professionalData = {
 	experiences: [
 		{
 			id: 1,
-			role: "Freelancer",
+			role: "Belleza Natural",
 			description:
-				"Desarrollo de software a medida, tutoria en temas de herramientas de software y administración. (2021 hasta hoy)",
+				"Ecommerce para la reventa de productos cosméticos. Actualmente en construcción",
 			current: true,
 		},
 
 		{
 			id: 2,
-			role: "Gerente Administrativo (Colespumas)",
+			role: "Megatel SAS",
 			description:
-				"Liderar y asesorar a los empleados administrativos, participar en la selección y entremaniemto de personal, preparar informes para comites administrativos, señalar políticas para el manejo de inventarios y bodegas, capacitación al personal en sistemas de información, planear, dirigir y controlar la ejecución presupuestal. (Febrero - Septiembre 2021)",
+				"Captar y fidelizar nuevos clientes, brindar asesoría y canalizar sus inquietudes al área técnica. Soportar procesos administrativos de compras de insumos, materiales y repuestos",
 			current: false,
 		},
 		{
 			id: 3,
-			role: "Lider Grupos Instalacion Biométrica. (Americas Business Process Services) ",
+			role: "Productos Ramo S.A.S",
 			description:
-				"Capacitación de grupos en elaboración de planos de trabajo, cálculo de recursos para instalción de puestos biométricos de votación, y despliegue logistico de estaciónes de trabajo y posterior retiro, elaboración de informes de avance. (Junio-Septiembre 2019)",
+				"Cotización, cuadros de análisis de precios, compras, coordinación logística de entregas de materiales y materias primas para la fábrica y Agencias de todo el país. Participacíon activa en comités de Gerencia, compras y demás grupos primarios para definir las políticas de compras de la compañia.",
 			current: false,
 		},
 		{
 			id: 4,
-			role: "Planeador de la demanda (Ponque Ramo de Antioquia) ",
+			role: "Cadena Mesa Ochoa ",
 			description:
-				"Establecer el número óptimo de unidades a producir en fábrica para periodos de tiempo anual, semestral, mensual y diario estructurado a partir del desempeño de los equipos comerciales, modelos estadísticos de demanda, mercadeo y ciclo de vida del producto",
+				"Administración del punto de juego llevando acabo actividades de responsabilidad tales como: Disposición logistica del punto de diversion, recolección de dineros y gestión de clientes",
 			current: false,
 		},
-		{
-			id: 5,
-			role: " Gestor de Cultura Organizacional. (Ponque Ramo de Antioquia) ",
-			description:
-				"Soportar la gestión del cambio en los equipos de plantas de producción, equipos de ventas a nivel nacional. Impartí seminarios de cultura organizacional, cambio e innovación",
-			current: false,
-		},
-		{
-			id: 6,
-			role: " Analista de Sistemas. (Ponque Ramo de Antioquia) ",
-			description:
-				"Desarrollo de software en Java con bases de datos Oracle para intercambio electrónico de Datos con almacenes de cadena y grandes superficies para recepción de pedidos y generación de avisos de despacho",
-			current: false,
-		},
-		{
-			id: 7,
-			role: " Jefe Logística. (Postobon) ",
-			description:
-				"Responsable por la cadena logistica nacional e internacional de producto terminado de la compañía, para las plantas de Girardot y Cartagena",
-			current: false,
-		},
-		{
-			id: 8,
-			role: " Profe privado Matemáticas, Física (Emprendimiento personal) ",
-			description:
-				"Profesor particular de Cálculo, Algebra Lineal y Ecuaciones Diferenciales",
-			current: false,
-		},
-		{
-			id: 9,
-			role: " Profe Matemáticas (Colegio los Almendros, Envigado) ",
-			description:
-				"Profesor tiempo completo matemáticas en grados 8, 9, 10 (Dos años)",
-			current: false,
-		},
-		{
-			id: 10,
-			role: " Estudiante practicante (Barrancabermeja, Ecopetrol) ",
-			description:
-				"Analista de inventarios",
-			current: false,
-		},
-		{
-			id: 11,
-			role: " Monitor (Universidad de Antioquia) ",
-			description:
-				"Orientación de talleres prácticos a estudiantes en algoritmos y Visual Foxpro.",
-			current: false,
-		},
+		
 
 	],
 };

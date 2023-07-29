@@ -12,13 +12,6 @@
 		
         <ul class="ml-5 text-xl mb-5">
             <li>{muestra.estado}</li>
-			<li class="ml-2 text-blue">
-                <span class="text-black">🕸️ github: </span><a href={muestra.github}>{muestra.github}</a>
-			</li>
-			<li class="ml-2 text-blue">
-                <span class="text-black">🕸️ Web: </span><a href={muestra.web}>{muestra.web}</a>
-			</li>
-			<li class="text-sm"><span class="font-bold">Nota:</span> {muestra.notas}</li>
 		</ul>
 
 	</ul>
